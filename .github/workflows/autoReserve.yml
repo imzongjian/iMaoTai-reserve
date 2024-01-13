@@ -5,7 +5,7 @@ name: imaotai-action
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "test" ]
     paths:
       - '.github/workflows/**'
   schedule:
